@@ -1,8 +1,3 @@
-## Lisans
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
 
 
 # Faiz Hesaplama
@@ -37,4 +32,10 @@ elif secim == "B" or secim == "b":
 else:
     print("Geçersiz seçim yapıldı.")
 
+```
+## Lisans
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Bu projeyi [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisansladık. Lisansın tam açıklamasını burada bulabilirsiniz.
 
